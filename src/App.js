@@ -1,10 +1,14 @@
+import StudentList from "./components/studentList/StudentList";
 
-import './App.css';
 
-function App() {
+
+
+const App = () => {
+  
+
   return (
     <div className="App">
-     <h1>Hello World!</h1>
+      <StudentList  />
     </div>
   );
 }

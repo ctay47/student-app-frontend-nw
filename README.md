@@ -10,6 +10,7 @@ Style the list
 # QUESTIONS
 Backend
 What is middleware and when is it used?
+Middleware is a sotware layer that acts as a bridge/ a set of function that can intercept and process request and responses as they pass betwwen client and server.
 What exactly does cors do?
 
 Frontend
